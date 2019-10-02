@@ -17,3 +17,5 @@ Tensorflow(>=1.1)
 CUDA(>=8.0)
 Scipy, Numpy, Rawpy,
 CuDNN(>=5.0) 
+
+But AI is best...
